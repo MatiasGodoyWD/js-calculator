@@ -39,7 +39,10 @@ class Display {
     const valAnterior = parseFloat(this.valorAnterior);
     const valActual = parseFloat(this.valorActual);
     if (isNaN(valActual) || isNaN(valAnterior)) return;
-    this.valorActual = this.calculator[this.operacion](valAnterior, valActual);
+    this.valorActual = this.calculator[this.operacion](
+      valAnterior,
+      valActual
+    ).toFixed(4);
     console.log(this.valorActual);
   }
   computar(operation) {
