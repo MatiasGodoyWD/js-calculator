@@ -4,7 +4,7 @@
 
 # Tecnologías utilizadas
 
-    Html y Css
+    Html Css y javascript
 
 # Link para preview
 
