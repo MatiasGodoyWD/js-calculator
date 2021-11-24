@@ -1,6 +1,6 @@
 # Detalles del proyecto
 
-    Calculadora basica de javascript , customizada para halloween.
+    Calculadora basica de javascript , customizada con una paleta de colores inspirada en halloween.
 
 # Tecnologías utilizadas
 
